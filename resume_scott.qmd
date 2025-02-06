@@ -42,6 +42,9 @@ format:
   \begin{multicols}{2}
     \begin{flushleft}Bachelors of Science: Data Science\end{flushleft}
   \end{multicols}
+  \begin{multicols}{2}
+    \begin{flushleft}Minor: Statistics\end{flushleft}
+  \end{multicols}
 \end{large}
 
 \vspace{0.05cm}
@@ -52,27 +55,35 @@ format:
   \hrule
 \end{large}
 \vspace{-0.16cm}
-**Languages and Tools** - *proficient:* Python, R *intermediate:* Spark, SQL, Tensorflow/Keras, Git, Docker  
 **Selected Coursework** - Machine Learning, Big Data Programming, Linear Regression, Statistical Modeling, Data Visualization, Programming in Python, Data Science Programming, Data Intutition and Insight
 
+**Languages and Tools** - *Proficient:* Python, R, VS Code, Positron, Plotly, Polars, Numpy *Intermediate:* Spark, SQL, Tensorflow/Keras, Git, Docker, Databricks, Azure
+
+**Web Development**: Familiar with HTML, CSS, JavaScript, and C# for web development.
+
+**Data Visualization**: Expertise in Tableau and Power BI for interactive dashboards and insights communication.
+
+**Communication Skills** - Proficient in *Slack*, *Zoom*, *Outlook*, and *Microsoft Teams* for communication and collaboration.
+- Experienced in *Microsoft Office Suite* (Word, Excel, PowerPoint).
 
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf EXPERIENCE}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://www.dynata.com/}{Dynata}}\end{flushleft}
-    \begin{flushright}Aug 2022-Present\end{flushright}
+    \begin{flushleft}{\bf \href{https://www.dynata.com/}{Marcus Harris Foundation}}\end{flushleft}
+    \begin{flushright}Dec 2024-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Scientist, Marketing}\end{flushleft}
-    \begin{flushright}Herndon, VA\end{flushright}\end
+    \begin{flushleft}\textit{Data Entry Analyst, Intern}\end{flushleft}
+    \begin{flushright}Rexburg, ID\end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Delivered 30+ advanced analytical studies (MTA, drivers analysis, diff-in-diff) to high profile clients including 15+ to marketing teams at **Google and Meta**
-* Built diff-in-diff and multi-touch attribution model codebase in Python(OOP) for Ad Data Science Team. This codebase has **saved 100+ hours and brought over in $2 million in revenue to date**
+* Harvested data from the IRS tax-exempt organization database, gathering contact information of nonprofit organizations for marketing outreach campaigns.
+* Analyzed email marketing campaign data, identifying trends and areas for improvement to enhance user engagement.
+* Conducted data-driven analysis to optimize marketing efforts, providing actionable insights to improve campaign performance.
 
 \vspace{7pt}
 
@@ -82,22 +93,39 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/acbass49/school-shootings}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
-    \begin{flushright}August 2022\end{flushright}
+    \begin{flushleft}\textit{\href{https://scotty369.github.io/Personal----Projects/}{Criminal Incident Data Analysis}}\end{flushleft}
+    \begin{flushright}November 2024\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* Compared and estimated several Bayesian Regression models with PYMC3 in Python. Ultimately, used **hierarchal negative binomial model** to predict shootings and make inferences about gun laws
+* Developed interactive visualizations in **Python** (Matplotlib, Plotly) to highlight trends in the demographics of offenders and victims.
+* Applied **data wrangling** techniques to identify patterns and trends, offering actionable insights into public safety strategies.
+* Analyzed offender-victim relationships to uncover societal trends influencing crime rates.
 
 \vspace{7pt}
 
-<!-- PERSONAL PROJECTS : 3RD BULLET -->
+<!-- PERSONAL PROJECTS : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/projects/star_wars_capstone/}{Political Message Detection and Likeability in Films}}\end{flushleft}
-    \begin{flushright}April 2020\end{flushright}
+    \begin{flushleft}\textit{\href{https://github.com/scotty369/Senior-Data-Science-Project}{Image Captioning Tool for Visually Impaired Users}}\end{flushleft}
+    \begin{flushright}December 2024\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* recieved award from Political Science department to fund a panel survey (n=1000).
-* estimated linear regression and multinomial logit in observational study context and wrote paper \href{https://alexbass.me/projects/star_wars_capstone/Capstone%20Project.pdf}{[here]} on findings.
+* Implemented a Convolutional Neural Network (CNN) for image feature extraction (VGG16) and a sequence model (LSTM/Transformer) for caption generation.
+* Visualized model attention areas with heatmaps and presented insights through data visualizations.
+* Developed a deep learning model to generate descriptive captions for images, aiding visually impaired individuals and automating social media captioning.
+
+\vspace{7pt}
+
+<!-- PERSONAL PROJECTS : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{\href{https://github.com/scotty369/Streaming_Services}{Streaming Services Data Analysis}}\end{flushleft}
+    \begin{flushright}January 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Analyzed Netflix, Hulu, Disney+, and Amazon content libraries to uncover trends in movie durations, genres, and ratings using Polars and Pandas.
+* Visualized insights with Seaborn, Matplotlib, and Plotly, including genre popularity, rating distributions, and country-wise content production.
+* Built interactive dashboards and statistical summaries to explore streaming service content trends and inform data-driven decisions.
