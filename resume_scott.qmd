@@ -27,7 +27,7 @@ format:
 <!-- CONTACT INFO -->
 \begin{center}stownsend678@gmail.com ∙ \href{https://scotty369.github.io/Scott-Townsend/}{Portfolio} ∙ \href{https://github.com/scotty369}{Github} ∙ \href{https://www.linkedin.com/in/scott-townsend-0ab515262/}{LinkedIn}
 \end{center}
-\vspace{15pt}
+\vspace{10pt}
 
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
@@ -55,7 +55,7 @@ format:
   \hrule
 \end{large}
 \vspace{-0.16cm}
-**Selected Coursework** - Machine Learning, Big Data Programming, Linear Regression, Statistical Modeling, Data Visualization, Programming in Python, Data Science Programming, Data Intutition and Insight
+**Technical Skills** - Machine Learning, Big Data Programming, Linear Regression, Statistical Modeling, Data Visualization, Programming in Python, Data Science Programming, Data Intutition and Insight
 
 **Languages and Tools** - *Proficient:* Python, R, VS Code, Positron, Plotly, Polars, Numpy *Intermediate:* Spark, SQL, Tensorflow/Keras, Git, Docker, Databricks, Azure
 
@@ -72,7 +72,7 @@ format:
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}{\bf \href{https://www.dynata.com/}{Marcus Harris Foundation}}\end{flushleft}
-    \begin{flushright}Dec 2024-Present\end{flushright}
+    \begin{flushright}December 2024-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -87,45 +87,62 @@ format:
 
 \vspace{7pt}
 
-<!-- PERSONAL PROJECTS : 1ST BULLET -->
 \begin{large}
-{\bf SELECTED PROJECTS}
-  \vspace{3pt}
-  \hrule
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://scotty369.github.io/Personal----Projects/}{Criminal Incident Data Analysis}}\end{flushleft}
-    \begin{flushright}November 2024\end{flushright}
+    \begin{flushleft}{\bf \href{https://www.dynata.com/}{Brigham Young University - Idaho}}\end{flushleft}
+    \begin{flushright}January 2025-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Financial and Cost Data Analyst}\end{flushleft}
+    \begin{flushright}Rexburg, ID\end{flushright}\end
+  {multicols}
 \end{large}
-* Developed interactive visualizations in **Python** (Matplotlib, Plotly) to highlight trends in the demographics of offenders and victims.
-* Applied **data wrangling** techniques to identify patterns and trends, offering actionable insights into public safety strategies.
-* Analyzed offender-victim relationships to uncover societal trends influencing crime rates.
+\vspace{-0.16cm}
+* Financial & Cost Data Analyst – Conducted cost analysis and financial forecasting for AI tutor implementation, identifying a cost-saving opportunity by optimizing TA and AI model usage.
+* Data-Driven Decision Making – Provided financial insights and recommendations to support university administration in adopting AI-driven academic support while ensuring FERPA compliance and institutional alignment.
 
 \vspace{7pt}
 
 <!-- PERSONAL PROJECTS : 2ND BULLET -->
 \begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/scotty369/Senior-Data-Science-Project}{Image Captioning Tool for Visually Impaired Users}}\end{flushleft}
-    \begin{flushright}December 2024\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-\end{large}
-* Implemented a Convolutional Neural Network (CNN) for image feature extraction (VGG16) and a sequence model (LSTM/Transformer) for caption generation.
-* Visualized model attention areas with heatmaps and presented insights through data visualizations.
-* Developed a deep learning model to generate descriptive captions for images, aiding visually impaired individuals and automating social media captioning.
-
-\vspace{7pt}
-
-<!-- PERSONAL PROJECTS : 4TH BULLET -->
-\begin{large}
+{\bf SELECTED PROJECTS}
+\vspace{3pt}
+  \hrule
   \begin{multicols}{2}
     \begin{flushleft}\textit{\href{https://github.com/scotty369/Streaming_Services}{Streaming Services Data Analysis}}\end{flushleft}
-    \begin{flushright}January 2025\end{flushright}
+    \begin{flushright}January 2025-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
 * Analyzed Netflix, Hulu, Disney+, and Amazon content libraries to uncover trends in movie durations, genres, and ratings using Polars and Pandas.
 * Visualized insights with Seaborn, Matplotlib, and Plotly, including genre popularity, rating distributions, and country-wise content production.
 * Built interactive dashboards and statistical summaries to explore streaming service content trends and inform data-driven decisions.
+
+\vspace{7pt}
+
+<!-- PERSONAL PROJECTS : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{\href{https://github.com/scotty369/Senior-Data-Science-Project}{Image Captioning Tool for Visually Impaired Users}}\end{flushleft}
+    \begin{flushright}December 2024-Present\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Developed a deep learning model to generate descriptive captions for images, aiding visually impaired individuals and automating social media captioning.
+* Implemented a Convolutional Neural Network (CNN) for image feature extraction (VGG16) and a sequence model (LSTM/Transformer) for caption generation.
+* Visualized model attention areas with heatmaps and presented insights through data visualizations.
+
+\vspace{7pt}
+
+<!-- PERSONAL PROJECTS : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{\href{https://scotty369.github.io/Personal----Projects/}{Criminal Incident Data Analysis}}\end{flushleft}
+    \begin{flushright}November 2024-December 2024\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Developed interactive visualizations in **Python** (Matplotlib, Plotly) to highlight trends in the demographics of offenders and victims.
+* Applied **data wrangling** techniques to identify patterns and trends, offering actionable insights into public safety strategies.
+* Analyzed offender-victim relationships to uncover societal trends influencing crime rates.
