@@ -22,7 +22,7 @@ format:
         \setlength{\columnsep}{3em}
 ---
 <!-- TITLE -->
-\begin{huge}\begin{center}{\bf Scott Townsend}\end{center}\end{huge}
+\begin{huge}\begin{center}{\bf S. Townsend}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
 \begin{center}stownsend678@gmail.com ∙ (562) 584-5017 ∙ Github: scotty369 ∙ LinkedIn: Scott Townsend
