@@ -25,7 +25,7 @@ format:
 \begin{huge}\begin{center}{\bf S. Townsend}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}stownsend678@gmail.com ∙ (562) 584-5017 ∙ Github: scotty369 ∙ LinkedIn: Scott Townsend
+\begin{center}stownsend678@gmail.com ∙ (562) 584-5017 ∙ \href{https://github.com/scotty369}{Github: scotty369} ∙ \href{https://www.linkedin.com/in/scott-townsend-0ab515262/}{LinkedIn: Scott Townsend}
 \end{center}
 \vspace{10pt}
 
@@ -57,9 +57,9 @@ format:
 \vspace{-0.16cm}
 **Technical Skills** - Machine Learning, Big Data Programming, Linear Regression, Statistical Modeling, Data Wrangling & Visualization, Programming in Python, Data Science Programming, Data Intutition and Insight
 
-**Tools** - *Proficient:* Python, R, VS Code, Positron *Intermediate:* Spark, SQL, Git, Docker, Databricks, Azure Studio, and Git for Version Control
+**Tools** - VS Code, RStudio, MySQL, Azure, Positron, Databricks, and Git for Version Control 
 
-**Libraries** - *Python:* Pandas, Polars, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, Scikit-learn *R:* tidyr, dplyr, ggplotly, lubridate, stringr, shiny, ggplot2
+**Libraries** - *Python:* Polars, Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, PySpark, Scikit-learn *R:* tidyr, dplyr, ggplotly, lubridate, stringr, shiny, ggplot2
 
 **Web Development**: Familiar with HTML, CSS, JavaScript, and C# for web development.
 
@@ -70,7 +70,7 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://www.dynata.com/}{Marcus Harris Foundation}}\end{flushleft}
+    \begin{flushleft}{\bf \href{https://marcusharrisfoundation.org/}{Marcus Harris Foundation}}\end{flushleft}
     \begin{flushright}December 2024-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -88,7 +88,7 @@ format:
 
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://www.dynata.com/}{Brigham Young University - Idaho}}\end{flushleft}
+    \begin{flushleft}{\bf \href{https://github.com/orgs/BYUIDSconsulting/teams/ai-ta-bot/repositories}{Brigham Young University - Idaho}}\end{flushleft}
     \begin{flushright}January 2025-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -98,8 +98,8 @@ format:
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Financial & Cost Data Analyst – Conducted cost analysis and financial forecasting for AI tutor implementation, identifying a cost-saving opportunity by optimizing TA and AI model usage.
-* Data-Driven Decision Making – Provided financial insights and recommendations to support university administration in adopting AI-driven academic support while ensuring FERPA compliance and institutional alignment.
+* Financial & Cost Data Analyst – Conducted **cost analysis** and financial forecasting for AI tutor implementation, identifying a cost-saving opportunity by optimizing TA and AI model usage.
+* Data-Driven Decision Making – Provided **financial insights** and recommendations to support university administration in adopting AI-driven academic support while ensuring FERPA compliance and institutional alignment.
 
 \vspace{7pt}
 
@@ -109,14 +109,14 @@ format:
 \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/scotty369/Streaming_Services}{Streaming Services Data Analysis}}\end{flushleft}
+    \begin{flushleft}\textit{\href{https://github.com/scotty369/Streaming_Services/blob/main/README.md}{Streaming Services Data Analysis}}\end{flushleft}
     \begin{flushright}January 2025-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* Analyzed Netflix, Hulu, Disney+, and Amazon content libraries to uncover trends in movie durations, genres, and ratings using Polars and Pandas.
-* Visualized insights with Seaborn, Matplotlib, and Plotly, including genre popularity, rating distributions, and country-wise content production.
-* Built interactive dashboards and statistical summaries to explore streaming service content trends and inform data-driven decisions.
+* Analyzed Netflix, Hulu, Disney+, and Amazon content libraries to uncover trends in movie durations, genres, and ratings using **Polars and Pandas**.
+* Visualized insights with **Seaborn, Matplotlib, and Plotly**, including genre popularity, rating distributions, and country-wise content production.
+* **Built interactive dashboards** and statistical summaries to explore streaming service content trends and inform data-driven decisions.
 
 \vspace{7pt}
 
@@ -129,7 +129,7 @@ format:
   \vspace{-0.17cm}
 \end{large}
 * Developed a deep learning model to generate descriptive captions for images, aiding visually impaired individuals and automating social media captioning.
-* Implemented a Convolutional Neural Network (CNN) for image feature extraction (VGG16) and a sequence model (LSTM/Transformer) for caption generation.
+* Implemented a ****Convolutional Neural Network** (CNN) for image feature extraction (VGG16) and a sequence model (LSTM/Transformer) for caption generation.
 * Visualized model attention areas with heatmaps and presented insights through data visualizations.
 
 \vspace{7pt}
