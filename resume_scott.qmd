@@ -124,7 +124,7 @@ format:
 <!-- PERSONAL PROJECTS : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/scotty369/Senior-Data-Science-Project}{Image Captioning Tool for Visually Impaired Users}}\end{flushleft}
+    \begin{flushleft}\textit{\href{https://github.com/scotty369/Senior-Data-Science-Project}{Image Captioning Tool}}\end{flushleft}
     \begin{flushright}December 2024-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
