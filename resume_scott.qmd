@@ -22,7 +22,7 @@ format:
         \setlength{\columnsep}{3em}
 ---
 <!-- TITLE -->
-\begin{huge}\begin{center}{\bf S. Townsend}\end{center}\end{huge}
+\begin{huge}\begin{center}{\bf Scott Townsend}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
 \begin{center}stownsend678@gmail.com ∙ (562) 584-5017 ∙ \href{https://github.com/scotty369}{Github: scotty369} ∙ \href{https://www.linkedin.com/in/scott-townsend-0ab515262/}{LinkedIn: Scott Townsend}
@@ -41,6 +41,7 @@ format:
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}Bachelors of Science: Data Science\end{flushleft}
+    \begin{flushright}April 2022 - April 2025\end{flushright}
   \end{multicols}
   \begin{multicols}{2}
     \begin{flushleft}Minor: Statistics\end{flushleft}
@@ -57,13 +58,13 @@ format:
 \vspace{-0.16cm}
 **Technical Skills** - Machine Learning, Big Data Programming, Linear Regression, Statistical Modeling, Data Wrangling & Visualization, Programming in Python, Data Science Programming, Data Intutition and Insight
 
-**Tools** - VS Code, RStudio, MySQL, Azure, Positron, Databricks, and Git for Version Control 
+**Data Visualization**: Expertise in Tableau and Power BI for interactive dashboards and insights communication.
 
-**Libraries** - *Python:* Polars, Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, PySpark, Scikit-learn *R:* tidyr, dplyr, ggplotly, lubridate, stringr, shiny, ggplot2
+**Tools** - VS Code, RStudio, MySQL, Azure, PostgreSQL, Positron, Databricks, GitHub, and Git for Version Control 
+
+**Libraries & Languages** - *Python:* Polars, Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, PySpark, Scikit-learn *R:* tidyr, dplyr, ggplotly, lubridate, stringr, shiny, ggplot2. *SQL*
 
 **Web Development**: Familiar with HTML, CSS, JavaScript, and C# for web development.
-
-**Data Visualization**: Expertise in Tableau and Power BI for interactive dashboards and insights communication.
 
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf EXPERIENCE}
@@ -129,7 +130,7 @@ format:
   \vspace{-0.17cm}
 \end{large}
 * Developed a deep learning model to generate descriptive captions for images, aiding visually impaired individuals and automating social media captioning.
-* Implemented a ****Convolutional Neural Network** (CNN) for image feature extraction (VGG16) and a sequence model (LSTM/Transformer) for caption generation.
+* Implemented a **Convolutional Neural Network** (CNN) for image feature extraction (VGG16) and a sequence model (LSTM/Transformer) for caption generation.
 * Visualized model attention areas with heatmaps and presented insights through data visualizations.
 
 \vspace{7pt}
