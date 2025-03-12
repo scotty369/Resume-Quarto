@@ -138,11 +138,11 @@ format:
 <!-- PERSONAL PROJECTS : 4TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://scotty369.github.io/Personal----Projects/}{Criminal Incident Data Analysis}}\end{flushleft}
+    \begin{flushleft}\textit{\href{https://scotty369.github.io/Blog_Project/projects/Student_Performance/}{Student Performance ML Analysis}}\end{flushleft}
     \begin{flushright}November 2024-December 2024\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* Developed interactive visualizations in **Python** (Matplotlib, Plotly) to highlight trends in the demographics of offenders and victims.
-* Applied **data wrangling** techniques to identify patterns and trends, offering actionable insights into public safety strategies.
-* Analyzed offender-victim relationships to uncover societal trends influencing crime rates.
+* Machine Learning Techniques & Models: Developed and compared **Linear Regression and Random Forest Regressor** models to predict student performance, leveraging cross-validation and GridSearchCV for hyperparameter tuning.
+* Data Preprocessing & Feature Engineering: Applied one-hot encoding, standardization (StandardScaler), and created a new average_score feature to **enhance predictive accuracy**.
+* Evaluation & Visualization: Assessed model performance using MSE, R-squared, MAE, RMSE, and **presented insights** with scatter plots, histograms, residual analysis, and **feature importance visualizations** using Matplotlib and Seaborn.
