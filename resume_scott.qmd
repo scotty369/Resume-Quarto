@@ -58,13 +58,13 @@ format:
 \vspace{-0.16cm}
 **Technical Skills** - Machine Learning, Big Data Programming, Linear Regression, Statistical Modeling, Data Wrangling & Visualization, Programming in Python, Data Science Programming, Data Intutition and Insight
 
-**Data Visualization**: Expertise in Tableau and Power BI for interactive dashboards and insights communication.
+**Data Visualization**: Expertise in Tableau, Looker Studio, and Power BI for interactive dashboards and insights communication.
 
-**Tools** - VS Code, RStudio, MySQL, Azure, PostgreSQL, Positron, Databricks, GitHub, and Git for Version Control 
+**Tools** - VS Code, Databricks, Colab, RStudio, Positron, MySQL, Azure, PostgreSQL, Docker, GitHub, and Git for Version Control 
 
 **Libraries & Languages** - *Python:* Polars, Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, PySpark, Scikit-learn *R:* tidyr, dplyr, ggplotly, lubridate, stringr, shiny, ggplot2. *SQL*
 
-**Web Development**: Familiar with HTML, CSS, JavaScript, and C# for web development.
+**Web Development**: Familiar with Streamlit, HTML, CSS, JavaScript, and C# for web development.
 
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf EXPERIENCE}
