@@ -56,13 +56,12 @@ format:
   \hrule
 \end{large}
 \vspace{-0.16cm}
-**Technical Skills** - Machine Learning, Big Data Programming, Linear Regression, Statistical Modeling, Data Wrangling & Visualization, Programming in Python, Data Science Programming, Data Intutition and Insight
 
-**Data Visualization**: Expertise in Tableau, Looker Studio, and Power BI for interactive dashboards and insights communication.
-
-**Tools** - VS Code, Databricks, Colab, RStudio, Positron, MySQL, Azure, PostgreSQL, Docker, GitHub, and Git for Version Control 
+**Analysis & Visualization**: Power BI, Tableau, Looker Studio, Power BI, and Miscrosft Excel for interactive dashboards and insights communication.
 
 **Libraries & Languages** - *Python:* Polars, Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, PySpark, Scikit-learn *R:* tidyr, dplyr, ggplotly, lubridate, stringr, shiny, ggplot2. *SQL*
+
+**Tools** - VS Code, Databricks, Colab, RStudio, Positron, MySQL, Azure, PostgreSQL, Docker, GitHub, and Git for Version Control 
 
 **Web Development**: Familiar with Streamlit, HTML, CSS, JavaScript, and C# for web development.
 
@@ -76,7 +75,7 @@ format:
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Entry Analyst, Intern}\end{flushleft}
+    \begin{flushleft}\textit{Data Entry Analyst | Python, Excel}\end{flushleft}
     \begin{flushright}Rexburg, ID\end{flushright}\end
   {multicols}
 \end{large}
@@ -94,7 +93,7 @@ format:
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Analyst}\end{flushleft}
+    \begin{flushleft}\textit{Data Analyst | Python, SQL, JavaScript}\end{flushleft}
     \begin{flushright}Rexburg, ID\end{flushright}\end
   {multicols}
 \end{large}
