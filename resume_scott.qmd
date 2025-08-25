@@ -25,7 +25,7 @@ format:
 \begin{huge}\begin{center}{\bf Scott Townsend}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}Charles Town, WV ∙ stownsend678@gmail.com ∙ (562) 584-5017 ∙ \href{https://github.com/scotty369}{Github/GitLab: scotty369} ∙ \href{https://www.linkedin.com/in/scott-townsend-0ab515262/}{LinkedIn: Scott Townsend}
+\begin{center} stownsend678@gmail.com ∙ (562) 584-5017 ∙ \href{https://github.com/scotty369}{Github/GitLab: scotty369} ∙ \href{https://www.linkedin.com/in/scott-townsend-0ab515262/}{LinkedIn: Scott Townsend}
 \end{center}
 \vspace{10pt}
 
@@ -66,7 +66,7 @@ format:
 \end{large}
 \vspace{-0.16cm}
 
-* **Technical Tools & Languages:** Python, R, SQL, Power BI, Tableau, Metabase, Snowflake, Databricks, AWS, S3, Prefect, Docker, Git
+* **Technical Tools & Languages:** Python, R, SQL, Power BI, Tableau, Metabase, Snowflake, Databricks, AWS, S3, Prefect, Docker, Git, HuggingFace, GitLab, GitHub
 
 * **Microsoft Office Suite:** Proficient in Word, Excel, Outlook, and Access
 
@@ -87,18 +87,36 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://marcusharrisfoundation.org/}{Charles Town Casino}}\end{flushleft}
+    \begin{flushleft}{\bf \href{https://www.wearepioneer.com}{Pioneer Commercial Cleaning}}\end{flushleft}
+    \begin{flushright}June 2025 - Present\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Technolgy Consultant}\end{flushleft}
+    \begin{flushright}\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* Designed and implemented a unified Snowflake data warehouse that consolidated data from WinTeam, Paycom, and Cora databases, eliminating silos and enabling company-wide reporting on workforce, payroll, and operations.
+* Built automated ETL pipelines with Python, GitLab CI/CD, and Snowflake to streamline ingestion from MySQL and SFTP into Snowflake via AWS S3 and pipelines, reducing manual effort and enabling near real-time data availability.
+* Developed interactive dashboards in Metabase that provided company leadership with actionable insights on workforce, payroll, and operational KPIs, driving more data-informed strategic and financial decisions.
+
+\vspace{7pt}
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.hollywoodcasinocharlestown.com}{Charls Town Casino}}\end{flushleft}
     \begin{flushright}May 2025 - Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Auditing Clerk}\end{flushleft}
+    \begin{flushleft}\textit{Revenue Audit Clerk}\end{flushleft}
     \begin{flushright}\end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
 * Perform detailed audits by interpreting technical documents, applying business math, and following written, oral, and diagram-based procedures to ensure compliance and accuracy.
-* Utilize Microsoft Excel, Access, and Word at an intermediate level to create reports, analyze data, and manage audit records efficiently.
+* Utilize Microsoft Excel, Access, and Word at an advanced level to create reports, analyze data, and manage audit records efficiently.
 * Collect, verify, and analyze financial and operational data to identify discrepancies, write audit findings, and support regulatory compliance.
 
 \vspace{7pt}
@@ -134,15 +152,15 @@ format:
 \end{large}
 \vspace{-0.16cm}
 * Led financial forecasting efforts and cost-benefit analyses for AI tutor implementation using Python (Pandas, NumPy), comparing multiple AI model configurations to identify the most cost-effective deployment strategy.
-* Evaluated implementation scenarios by analyzing trade-offs between AI-assisted tutoring and traditional TA support, providing **data-driven recommendations** that optimized operational efficiency and budget allocation.
-* Presented findings and insights using **Power BI** dashboards and visual reports, improving stakeholder understanding and guiding budget and educational technology decisions.
+* Evaluated implementation scenarios by analyzing trade-offs between AI-assisted tutoring and traditional TA support, providing data-driven recommendations that optimized operational efficiency and budget allocation.
+* Presented findings and insights using Power BI dashboards and visual reports, improving stakeholder understanding and guiding budget and educational technology decisions.
 \vspace{7pt}
 
 \vspace{7pt}
 
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://github.com/orgs/BYUIDSconsulting/teams/ai-ta-bot/repositories}{1800 Contacts}}\end{flushleft}
+    \begin{flushleft}{\bf \href{https://www.1800contacts.com}{1800 Contacts}}\end{flushleft}
     \begin{flushright}April 2023 - Decmember 2023\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -161,7 +179,7 @@ format:
 
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://github.com/orgs/BYUIDSconsulting/teams/ai-ta-bot/repositories}{Melaleuca}}\end{flushleft}
+    \begin{flushleft}{\bf \href{https://www.melaleuca.com}{Melaleuca}}\end{flushleft}
     \begin{flushright}April 2022 - April 2023\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -183,18 +201,34 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://github.com/scotty369}{Pioneer Commercial Cleaning – Contracted Data Engineering Project}}\end{flushleft}
-    \begin{flushright}June 2025 – Present\end{flushright}
+    \begin{flushleft}{\bf \href{https://huggingface.co/spaces/scotty369/Townsend_streamlit-dockerWI25}{Streamlit C-Store App}}\end{flushleft}
+    \begin{flushright}April 2025 – June 2025\end{flushright}
   \end{multicols}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Engineering | Snowflake, Metabase, Python}\end{flushleft}
+    \begin{flushleft}\textit{Data Engineering | Streamlit, HuggingFace}\end{flushleft}
     \begin{flushright}\end{flushright}
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Designed and implemented a unified Snowflake data warehouse schema integrating data from WinTeam, Paycom, and Cora systems.
-* Built automated ETL pipelines using Python, GitLab CI/CD, and Snowpark to extract and transform data from MySQL and SFTP, load it into Snowflake via AWS S3. Leveraged Snowpipe and AWS S3 for real-time ingestion of raw data into staging schemas within Snowflake.
-* Developed interactive dashboards in Metabase for company leadership to monitor workforce, payroll, and operations KPIs.
+* Deployed an end-to-end analytics application by containerizing a Streamlit dashboard with Docker and hosting it on Hugging Face Spaces, making insights accessible to non-technical users.
+* Transformed transactional and product-level data into interactive KPIs, charts, tables, and filters, enabling on-demand answers to product and category-level business questions.
+* Integrated Databricks pipelines with the Streamlit app to ensure fresh data availability, reducing reporting lag and supporting faster, data-driven decision-making.
+\vspace{7pt}
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://github.com/scotty369}{Convenience Store Data Engineering}}\end{flushleft}
+    \begin{flushright}January 2025 – April 2025\end{flushright}
+  \end{multicols}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Data Engineering | Databricks, PySpark, Plotly}\end{flushleft}
+    \begin{flushright}\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Built scalable ETL pipelines in Databricks to clean, transform, and integrate millions of retail transactions and product records from U.S. convenience stores.
+* Engineered meaningful PySpark features to enhance downstream analytics and enrich business reporting with new insights into sales and margin performance.
+* Performed exploratory analysis and developed visual dashboards with Plotly and Seaborn to uncover key retail trends, shopper behavior patterns, and category-level performance drivers.
 
 \vspace{7pt}
 
@@ -215,20 +249,3 @@ GridSearchCV
 prove model accuracy.
 * Interpreted results with visual tools like residual plots and feature importance charts, translating findings into actionable
 insights.
-
-\vspace{7pt}
-
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://github.com/scotty369}{Convenience Store Data Engineering}}\end{flushleft}
-    \begin{flushright}January 2025 – April 2025\end{flushright}
-  \end{multicols}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Engineering | Databricks, PySpark, Plotly}\end{flushleft}
-    \begin{flushright}\end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Led a data engineering project in Databricks and performed ETL with a focus on cleaning, transforming, and integrating large-scale transactional and product-level data from U.S. convenience stores.
-* Engineered meaningful features using PySpark to enhance downstream analysis and business reporting.
-* Conducted exploratory analysis and created visual dashboards with Plotly and Seaborn to uncover key retail trends and performance drivers.
