@@ -10,7 +10,7 @@ format:
       - heightrounded
     fontfamily: libertine
     colorlinks: true
-    fontsize: '16'
+    fontsize: '12'
     include-in-header: 
       text: |
         \usepackage{multicol}
@@ -25,7 +25,7 @@ format:
 \begin{huge}\begin{center}{\bf Scott Townsend}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}stownsend678@gmail.com ∙ (562) 584-5017 ∙ \href{https://github.com/scotty369}{Github: scotty369} ∙ \href{https://www.linkedin.com/in/scott-townsend-0ab515262/}{LinkedIn: Scott Townsend}
+\begin{center}Charles Town, WV ∙ stownsend678@gmail.com ∙ (562) 584-5017 ∙ \href{https://github.com/scotty369}{Github/GitLab: scotty369} ∙ \href{https://www.linkedin.com/in/scott-townsend-0ab515262/}{LinkedIn: Scott Townsend}
 \end{center}
 \vspace{10pt}
 
@@ -35,8 +35,8 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf Brigham Young University-Idaho}\end{flushleft}
-    \begin{flushright}Rexburg, ID\end{flushright}
+    \begin{flushleft}{\bf Brigham Young University}\end{flushleft}
+    \begin{flushright}\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -50,6 +50,15 @@ format:
 
 \vspace{0.05cm}
 
+<!-- CERTIFICATIONS -->
+\begin{large}{\bf CERTIFICATIONS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+
+* Professional Data Engineer Certification (in progress) – Google Cloud
+
 <!-- SKILLS -->
 \begin{large}{\bf SKILLS}
   \vspace{3pt}
@@ -57,91 +66,169 @@ format:
 \end{large}
 \vspace{-0.16cm}
 
-**Analysis & Visualization**: Power BI, Tableau, Looker Studio, Power BI, and Miscrosft Excel for interactive dashboards and insights communication.
+* **Technical Tools & Languages:** Python, R, SQL, Power BI, Tableau, Metabase, Snowflake, Databricks, AWS, S3, Prefect, Docker, Git
 
-**Libraries & Languages** - *Python:* Polars, Pandas, NumPy, Seaborn, Matplotlib, Plotly, TensorFlow, Keras, PyTorch, PySpark, Scikit-learn *R:* tidyr, dplyr, ggplotly, lubridate, stringr, shiny, ggplot2. *SQL*
+* **Microsoft Office Suite:** Proficient in Word, Excel, Outlook, and Access
 
-**Tools** - VS Code, Databricks, Colab, RStudio, Positron, MySQL, Azure, PostgreSQL, Docker, GitHub, and Git for Version Control 
+* **Communication:** Strong verbal and written skills; able to convey complex information clearly
 
-**Web Development**: Familiar with Streamlit, HTML, CSS, JavaScript, and C# for web development.
+* **Collaboration & Leadership:** Effective team player with leadership orientation and initiative
+
+* **Adaptability:** Quick learner with the ability to perform under pressure and in fast-paced environments
+
+* **Problem-Solving:** Mechanical aptitude with basic troubleshooting capabilities
+
+* **Organization:** Highly detail-oriented and well-organized in managing tasks and data
+
+* **Languages:** Bilingual in English and French
 
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf EXPERIENCE}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://marcusharrisfoundation.org/}{Marcus Harris Foundation}}\end{flushleft}
-    \begin{flushright}December 2024-Present\end{flushright}
+    \begin{flushleft}{\bf \href{https://marcusharrisfoundation.org/}{Charles Town Casino}}\end{flushleft}
+    \begin{flushright}May 2025 - Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Entry Analyst | Python, Excel}\end{flushleft}
-    \begin{flushright}Rexburg, ID\end{flushright}\end
+    \begin{flushleft}\textit{Auditing Clerk}\end{flushleft}
+    \begin{flushright}\end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Harvested and **imported large volumes of data from the IRS tax-exempt organization database, using Python (Pandas)** to clean and structure the data before inserting it into Excel for further organization.
-* Merged and **manipulated multiple datasets using Pandas**, streamlining data integration and ensuring consistency for analysis and reporting.
-* **Generated visualizations and insights by analyzing trends in Python** and summarizing findings in Excel, providing data-driven recommendations to optimize marketing outreach strategies.
+* Perform detailed audits by interpreting technical documents, applying business math, and following written, oral, and diagram-based procedures to ensure compliance and accuracy.
+* Utilize Microsoft Excel, Access, and Word at an intermediate level to create reports, analyze data, and manage audit records efficiently.
+* Collect, verify, and analyze financial and operational data to identify discrepancies, write audit findings, and support regulatory compliance.
+
+\vspace{7pt}
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://marcusharrisfoundation.org/}{Marcus Harris Foundation}}\end{flushleft}
+    \begin{flushright}December 2024 - April 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Data Analyst}\end{flushleft}
+    \begin{flushright}\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* Spearheaded the collection and processing of large-scale nonprofit data from the IRS tax-exempt organization database using Python (Pandas), delivering clean, analysis-ready datasets for internal use.
+* Consolidated and standardized disparate data sources to improve reporting reliability and enable comprehensive cross-source analysis.
+* Analyzed marketing and outreach performance trends, delivering actionable insights through Python dashboards and Excel summaries that shaped data-driven engagement and fundraising strategies.
 
 \vspace{7pt}
 
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf \href{https://github.com/orgs/BYUIDSconsulting/teams/ai-ta-bot/repositories}{Brigham Young University - Idaho}}\end{flushleft}
-    \begin{flushright}January 2025-Present\end{flushright}
+    \begin{flushright}January 2025 - April 2025\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Analyst | Python, SQL, JavaScript}\end{flushleft}
-    \begin{flushright}Rexburg, ID\end{flushright}\end
+    \begin{flushleft}\textit{Data Analyst}\end{flushleft}
+    \begin{flushright}\end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Financial Forecasting & Cost Analysis – **Utilized Python (Pandas, NumPy) to analyze financial data** and forecast costs for AI tutor implementation, identifying optimal strategies to reduce expenses by balancing TA and AI model usage.
-* User Interface Development – **Worked with JavaScript to enhance the AI model’s UI**, improving user interaction and accessibility for a seamless academic support experience.
+* Led financial forecasting efforts and cost-benefit analyses for AI tutor implementation using Python (Pandas, NumPy), comparing multiple AI model configurations to identify the most cost-effective deployment strategy.
+* Evaluated implementation scenarios by analyzing trade-offs between AI-assisted tutoring and traditional TA support, providing **data-driven recommendations** that optimized operational efficiency and budget allocation.
+* Presented findings and insights using **Power BI** dashboards and visual reports, improving stakeholder understanding and guiding budget and educational technology decisions.
+\vspace{7pt}
 
 \vspace{7pt}
 
-<!-- PERSONAL PROJECTS : 2ND BULLET -->
 \begin{large}
-{\bf SELECTED PROJECTS}
-\vspace{3pt}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://github.com/orgs/BYUIDSconsulting/teams/ai-ta-bot/repositories}{1800 Contacts}}\end{flushleft}
+    \begin{flushright}April 2023 - Decmember 2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Chat Support Specailist}\end{flushleft}
+    \begin{flushright}\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* Actively promoted lens upgrades and complementary products during chat interactions, helping boost order value and enhance the customer experience.
+* Responded to a high volume of live customer chats daily, delivering accurate, friendly, and professional support while navigating multiple systems simultaneously to resolve complex inquiries efficiently.
+* Reviewed and processed eyewear orders by interpreting prescription details and customer preferences, ensuring proper lens type, frame selection, and shipping accuracy for customer satisfaction.
+* Utilized Microsoft Office applications and proprietary tools to maintain meticulous records of customer interactions, helping streamline order fulfillment and future support.
+
+\vspace{7pt}
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://github.com/orgs/BYUIDSconsulting/teams/ai-ta-bot/repositories}{Melaleuca}}\end{flushleft}
+    \begin{flushright}April 2022 - April 2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{French Customer Service Support}\end{flushleft}
+    \begin{flushright}\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* Promoted product benefits and membership upgrades during customer support interactions, contributing to increased sales.
+* Provided high-quality bilingual support via phone and email to French-speaking customers, addressing questions on wellness products, membership benefits, and account discrepancies with clarity and professionalism.
+* Explained complex product information, including health benefits, ingredients, and usage instructions, to international customers in both French and English, ensuring full customer understanding and compliance.
+* Assisted with billing inquiries, refunds, and adjustments by thoroughly reviewing account activity, documenting changes, ensuring resolution in accordance with company policies and procedures.
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 1ST BULLET-->
+\begin{large}{\bf SELECTED PROJECTS}
+  \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/scotty369/Streaming_Services/blob/main/README.md}{Streaming Services Data Analysis}}\end{flushleft}
-    \begin{flushright}January 2025-Present\end{flushright}
+    \begin{flushleft}{\bf \href{https://github.com/scotty369}{Pioneer Commercial Cleaning – Contracted Data Engineering Project}}\end{flushleft}
+    \begin{flushright}June 2025 – Present\end{flushright}
   \end{multicols}
-  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Data Engineering | Snowflake, Metabase, Python}\end{flushleft}
+    \begin{flushright}\end{flushright}
+  \end{multicols}
 \end{large}
-* Analyzed Netflix, Hulu, Disney+, and Amazon content libraries to uncover trends in movie durations, genres, and ratings using **Polars and Pandas**.
-* Visualized insights with **Seaborn, Matplotlib, and Plotly**, including genre popularity, rating distributions, and country-wise content production.
-* **Built interactive dashboards** and statistical summaries to explore streaming service content trends and inform data-driven decisions.
+\vspace{-0.16cm}
+* Designed and implemented a unified Snowflake data warehouse schema integrating data from WinTeam, Paycom, and Cora systems.
+* Built automated ETL pipelines using Python, GitLab CI/CD, and Snowpark to extract and transform data from MySQL and SFTP, load it into Snowflake via AWS S3. Leveraged Snowpipe and AWS S3 for real-time ingestion of raw data into staging schemas within Snowflake.
+* Developed interactive dashboards in Metabase for company leadership to monitor workforce, payroll, and operations KPIs.
 
 \vspace{7pt}
 
-<!-- PERSONAL PROJECTS : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/scotty369/Senior-Data-Science-Project}{Image Captioning Tool}}\end{flushleft}
-    \begin{flushright}December 2024-Present\end{flushright}
+    \begin{flushleft}{\bf \href{https://github.com/scotty369}{Student Performance ML Analysis}}\end{flushleft}
+    \begin{flushright}October 2024 – December 2024\end{flushright}
   \end{multicols}
-  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Machine Learning | Colab, Random Forest, Seaborn}\end{flushleft}
+    \begin{flushright}\end{flushright}
+  \end{multicols}
 \end{large}
-* Developed a deep learning model to generate descriptive captions for images, aiding visually impaired individuals and automating social media captioning.
-* Implemented a **Convolutional Neural Network** (CNN) for image feature extraction (VGG16) and a sequence model (LSTM/Transformer) for caption generation.
-* Visualized model attention areas with heatmaps and presented insights through data visualizations.
+\vspace{-0.16cm}
+* Built and tuned Linear Regression and Random Forest models to predict academic performance using cross-validation and
+GridSearchCV
+* Engineered features (e.g., average_score) and applied preprocessing techniques (one-hot encoding, standardization) to im-
+prove model accuracy.
+* Interpreted results with visual tools like residual plots and feature importance charts, translating findings into actionable
+insights.
 
 \vspace{7pt}
 
-<!-- PERSONAL PROJECTS : 4TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://scotty369.github.io/Blog_Project/projects/Student_Performance/}{Student Performance ML Analysis}}\end{flushleft}
-    \begin{flushright}November 2024-December 2024\end{flushright}
+    \begin{flushleft}{\bf \href{https://github.com/scotty369}{Convenience Store Data Engineering}}\end{flushleft}
+    \begin{flushright}January 2025 – April 2025\end{flushright}
   \end{multicols}
-  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Data Engineering | Databricks, PySpark, Plotly}\end{flushleft}
+    \begin{flushright}\end{flushright}
+  \end{multicols}
 \end{large}
-* Machine Learning Techniques & Models: Developed and compared **Linear Regression and Random Forest Regressor** models to predict student performance, leveraging cross-validation and GridSearchCV for hyperparameter tuning.
-* Data Preprocessing & Feature Engineering: Applied one-hot encoding, standardization (StandardScaler), and created a new average_score feature to **enhance predictive accuracy**.
-* Evaluation & Visualization: Assessed model performance using MSE, R-squared, MAE, RMSE, and **presented insights** with scatter plots, histograms, residual analysis, and **feature importance visualizations** using Matplotlib and Seaborn.
+\vspace{-0.16cm}
+* Led a data engineering project in Databricks and performed ETL with a focus on cleaning, transforming, and integrating large-scale transactional and product-level data from U.S. convenience stores.
+* Engineered meaningful features using PySpark to enhance downstream analysis and business reporting.
+* Conducted exploratory analysis and created visual dashboards with Plotly and Seaborn to uncover key retail trends and performance drivers.
